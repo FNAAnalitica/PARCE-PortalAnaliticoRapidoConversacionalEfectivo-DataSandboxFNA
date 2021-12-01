@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <iframe id="chat" style="width: 800px; height: 400px;" src=''></iframe>
+</body>
+<script>
+
+    var xhr = new XMLHttpRequest();
+    xhr.open('GET', "https://webchat.botframework.com/api/tokens", true);
+    xhr.setRequestHeader('Authorization', 'BotConnector ' + 'h6gMqv4KcEA.ge0cHAWWxx7PS-NimjlSEmYm1RMEeYF1gf6qc2AL9pI');
+    xhr.send();
+    xhr.onreadystatechange = processRequest;
+
+    function processRequest(e) {
+      if (xhr.readyState == 4  && xhr.status == 200) {
+        var response = JSON.parse(xhr.responseText);
+        document.getElementById("chat").src="https://webchat.botframework.com/embed/botfnapython?t="+response
+      }
+    }
+
+  </script>
+</html>
