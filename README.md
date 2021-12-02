@@ -23,18 +23,24 @@ PARCE integra habilidades de inteligencia artificial, almacenamiento de datos y 
 
 En este repositorio almacena los elementos básicos para replicar de forma sencilla y preliminar el proyecto PARCE.
 
-1. Códigos: Script del proyectos, referentes a la etapa de procesamiento y analítica de los datos captados por PARCE.
+1. **Códigos**: Script del proyectos, referentes a la etapa de procesamiento y analítica de los datos captados por PARCE.
+
    - SDK: Script que define el funcionamiento interno del Bot.
    - DataBricks: Script para el procesamiento y generación de los datos de entrenamiento para QnA Maker.
    - AzureSynapse: Notebook para la ingesta de los datos captados por el bot, y generación de insumos para modelos analíticos y de visualización.
    - PBI: Tablero de visualización.
    - Bot: HTML para el uso y manipulación del chatbot.
-2. Documentación: Hitos y documentación base para el entendimiento del potencial uso de los servicios Azure en el desarrollo de PARCE.
+   
+2. **Documentación**: Hitos y documentación base para el entendimiento del potencial uso de los servicios Azure en el desarrollo de PARCE.
+
    - Enlaces documentales.
    - Guía de Microsoft para el diseño de chatbot en pro de la experiencia conversacional de los usuarios.
-3. Bases: Bases de datos básicas para la ejecución simple del proyecto.
+   
+3. **Bases**: Bases de datos básicas para la ejecución simple del proyecto.
+
    - Muestra de datos producidos por el algoritmo de etiquetado (Ejecutado en DataBricks).
    - Muestra de datos producidos por el algoritmo de etiquetado, adecuado para su uso en QnA Maker.
    - Chitchat como complemento de las KB de QnA Maker para PARCE.
    - Diccionario de tópicos, como insumo para la ingesta de datos en Azure Synapse.
-4. Resultados:
+   
+4. **Resultados**:
