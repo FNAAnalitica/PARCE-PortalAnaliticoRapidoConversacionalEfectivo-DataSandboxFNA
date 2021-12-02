@@ -1,6 +1,3 @@
-# PARCE-PortalAnaliticoRapidoConversacionalEfectivo-DataSandboxFNA
-Repositorio del proyecto de big data del Fondo Nacional del Ahorro en el marco de la iniciativa del Data Sandbox del MinTic. 2021
-
 # ¿Qué es el proyecto?
 
 En esta area va una descripción breve del proyecto, sus caracteristicas y funcionamiento. 
