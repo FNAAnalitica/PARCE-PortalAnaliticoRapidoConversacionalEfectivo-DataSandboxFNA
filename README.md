@@ -25,7 +25,7 @@ En este repositorio almacena los elementos básicos para replicar de forma senci
 
 1. **Códigos**: Script del proyecto, referentes a la etapa de procesamiento y analítica de los datos captados por PARCE.
 
-   - SDK: Script que define el funcionamiento interno del Bot.
+   - [SDK](https://github.com/FNAAnalitica/PARCE-PortalAnaliticoRapidoConversacionalEfectivo-DataSandboxFNA/tree/master/01_Codigos/00_BotFramework_SDK): Script que define el funcionamiento interno del Bot.
    - DataBricks: Script para el procesamiento y generación de los datos de entrenamiento para QnA Maker.
    - AzureSynapse: Notebook para la ingesta de los datos captados por el bot, y generación de insumos para modelos analíticos y de visualización.
    - PBI: Tablero de visualización.
