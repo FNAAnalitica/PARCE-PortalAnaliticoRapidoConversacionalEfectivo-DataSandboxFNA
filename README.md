@@ -26,10 +26,10 @@ En este repositorio almacena los elementos básicos para replicar de forma senci
 1. **Códigos**: Script del proyecto, referentes a la etapa de procesamiento y analítica de los datos captados por PARCE.
 
    - [SDK](https://github.com/FNAAnalitica/PARCE-PortalAnaliticoRapidoConversacionalEfectivo-DataSandboxFNA/tree/master/01_Codigos/00_BotFramework_SDK): Script que define el funcionamiento interno del Bot.
-   - DataBricks: Script para el procesamiento y generación de los datos de entrenamiento para QnA Maker.
-   - AzureSynapse: Notebook para la ingesta de los datos captados por el bot, y generación de insumos para modelos analíticos y de visualización.
-   - PBI: Tablero de visualización.
-   - Bot: HTML para el uso y manipulación del chatbot.
+   - [DataBricks](https://github.com/FNAAnalitica/PARCE-PortalAnaliticoRapidoConversacionalEfectivo-DataSandboxFNA/tree/master/01_Codigos/01_DataBricks): Script para el procesamiento y generación de los datos de entrenamiento para QnA Maker.
+   - [Azure Synapse](https://github.com/FNAAnalitica/PARCE-PortalAnaliticoRapidoConversacionalEfectivo-DataSandboxFNA/tree/master/01_Codigos/02_AzureSynapse): Notebook para la ingesta de los datos captados por el bot, y generación de insumos para modelos analíticos y de visualización.
+   - [PBI](https://github.com/FNAAnalitica/PARCE-PortalAnaliticoRapidoConversacionalEfectivo-DataSandboxFNA/tree/master/01_Codigos/03_PBI): Tablero de visualización.
+   - [Bot](https://github.com/FNAAnalitica/PARCE-PortalAnaliticoRapidoConversacionalEfectivo-DataSandboxFNA/tree/master/01_Codigos/04_Bot): HTML para el uso y manipulación del chatbot.
    
 2. **Documentación**: Hitos y documentación base para el entendimiento del potencial uso de los servicios Azure en el desarrollo de PARCE.
 
