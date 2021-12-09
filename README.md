@@ -31,12 +31,12 @@ En este repositorio almacena los elementos básicos para replicar de forma senci
    - [PBI](https://github.com/FNAAnalitica/PARCE-PortalAnaliticoRapidoConversacionalEfectivo-DataSandboxFNA/tree/master/01_Codigos/03_PBI): Tablero de visualización.
    - [Bot](https://github.com/FNAAnalitica/PARCE-PortalAnaliticoRapidoConversacionalEfectivo-DataSandboxFNA/tree/master/01_Codigos/04_Bot): HTML para el uso y manipulación del chatbot.
    
-2. **Documentación**: Hitos y documentación base para el entendimiento del potencial uso de los servicios Azure en el desarrollo de PARCE.
+2. [**Documentación**](https://github.com/FNAAnalitica/PARCE-PortalAnaliticoRapidoConversacionalEfectivo-DataSandboxFNA/tree/master/02_Documentacion): Hitos y documentación base para el entendimiento del potencial uso de los servicios Azure en el desarrollo de PARCE.
 
    - Enlaces documentales.
    - Guía de Microsoft para el diseño de chatbot en pro de la experiencia conversacional de los usuarios.
    
-3. **Bases**: Bases de datos básicas para la ejecución simple del proyecto.
+3. [**Bases**](https://github.com/FNAAnalitica/PARCE-PortalAnaliticoRapidoConversacionalEfectivo-DataSandboxFNA/tree/master/03_Bases): Bases de datos básicas para la ejecución simple del proyecto.
 
    - Muestra de datos producidos por el algoritmo de etiquetado (Ejecutado en DataBricks).
    - Muestra de datos producidos por el algoritmo de etiquetado, adecuado para su uso en QnA Maker.
