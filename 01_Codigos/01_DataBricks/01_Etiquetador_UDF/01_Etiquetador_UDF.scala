@@ -33,7 +33,7 @@ Este script está escrito en Pyspark
 // MAGIC storage_account_name = "dlsfnaparce"
 // MAGIC 
 // MAGIC # Azure Storage Account Key
-// MAGIC storage_account_key = "1y5feFvWNy6C4YGZlGlR/9wEwLeG51EDyGqsgkOiOLW2AndQmnj4PE7Ri+TgRJIC0Mghu5Z4KgqwjdQHZEhE0w=="
+// MAGIC storage_account_key = " "
 // MAGIC 
 // MAGIC # Azure Storage Account Source Container
 // MAGIC container = "bases"
