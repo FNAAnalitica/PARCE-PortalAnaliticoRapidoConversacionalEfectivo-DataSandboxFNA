@@ -21,3 +21,12 @@ Con nuestros propios datos de entrenamiento creamos *2 servicios cognitivos* que
 Este servicio cognitivo (*QnA Maker*) conforma el **chatbot** de PARCE, este chatbot *responde a preguntas frecuentes* acerca de los temas o tópicos con los que entrenamos el servicio.
 
 ## Almacenamiento de información
+Con el servicio de almacenamiento de **Cosmos DB** logramos conectar el chatbot a una ambiente de almacenamiento propio, el cual regitra una a una las interecciones del bot con usuarios, junto con métricas conversacionales.
+
+<p align="center">
+  <img src="/04_Resultados/Captura2.JPG" />
+</p>
+
+## Ambiente analítico
+Con una captación de información conversacional ya estructurada y funcional, creamos un ambiente de ingesta de dicha información. Con Azure Synapse Analytics conformamos un ambiente en donde *transformamos y enriquecemos las métricas de la información conversacional del chatbot, para así disponer los datos conversacionales de PARCE para modelos
+analíticos y en particular, para *tableros de visualización en Power BI*.
