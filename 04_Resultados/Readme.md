@@ -14,4 +14,10 @@ Con nuestros propios datos de entrenamiento creamos *2 servicios cognitivos* que
 1. QnA Maker que **RESPONDE** a las interacciones de los usuarios de PARCE. 
 2. LUIS que **PREDICE** la intención del usuario con base en su mensaje.
 
-![](/04_Resultados/Captura.JPG)
+<p align="center">
+  <img src="/04_Resultados/Chatbot.JPG" />
+</p>
+
+Este servicio cognitivo (*QnA Maker*) conforma el **chatbot** de PARCE, este chatbot *responde a preguntas frecuentes* acerca de los temas o tópicos con los que entrenamos el servicio.
+
+## Almacenamiento de información
