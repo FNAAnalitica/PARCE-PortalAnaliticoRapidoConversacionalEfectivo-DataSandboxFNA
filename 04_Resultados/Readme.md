@@ -30,3 +30,16 @@ Con el servicio de almacenamiento de **Cosmos DB** logramos conectar el chatbot 
 ## Ambiente analítico
 Con una captación de información conversacional ya estructurada y funcional, creamos un ambiente de ingesta de dicha información. Con Azure Synapse Analytics conformamos un ambiente en donde *transformamos y enriquecemos las métricas de la información conversacional del chatbot, para así disponer los datos conversacionales de PARCE para modelos
 analíticos y en particular, para *tableros de visualización en Power BI*.
+
+<p align="center">
+  <img src="/04_Resultados/Tablero.JPG" />
+</p>
+
+En el tablero de visualización podemos identificar:
+
+1. Conteo de mensajes.
+2. Top de intenciones de usuarios y top de servicios.
+3. Serie de tiempo de mensajes vs fallas de respuesta del bot (*línea gris*).
+4. Nivel de respuesta de **QnA Maker**.
+5. Nivel de predicción de **LUIS** con score promedio de predicción.
+6. Comparativo de intenciones percibidas por **QnA Maker** y **LUIS**. 

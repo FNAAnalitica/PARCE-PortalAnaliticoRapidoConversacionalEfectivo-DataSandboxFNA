@@ -43,4 +43,4 @@ En este repositorio se almacenan los elementos básicos para replicar de forma s
    - Chitchat como complemento de las KB de QnA Maker para PARCE.
    - Diccionario de tópicos, como insumo para la ingesta de datos en Azure Synapse.
    
-4. **Resultados**:
+4. [**Resultados**](https://github.com/FNAAnalitica/PARCE-PortalAnaliticoRapidoConversacionalEfectivo-DataSandboxFNA/tree/master/04_Resultados): Descripción de resultados del desarrollo de **PARCE**, y [**documento**]() divulgativo en el que reposa la experiencia y detalles de la creación de **PARCE** en el Data Sandbox.
