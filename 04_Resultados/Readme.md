@@ -15,7 +15,7 @@ Con nuestros propios datos de entrenamiento creamos *2 servicios cognitivos* que
 2. LUIS que **PREDICE** la intención del usuario con base en su mensaje.
 
 <p align="center">
-  <img src="/04_Resultados/Chatbot.JPG" />
+  <img src="/04_Resultados/Imagenes/Chatbot.JPG" />
 </p>
 
 Este servicio cognitivo (*QnA Maker*) conforma el **chatbot** de PARCE, este chatbot *responde a preguntas frecuentes* acerca de los temas o tópicos con los que entrenamos el servicio.
@@ -24,7 +24,7 @@ Este servicio cognitivo (*QnA Maker*) conforma el **chatbot** de PARCE, este cha
 Con el servicio de almacenamiento de **Cosmos DB** logramos conectar el chatbot a una ambiente de almacenamiento propio, el cual regitra una a una las interecciones del bot con usuarios, junto con métricas conversacionales.
 
 <p align="center">
-  <img src="/04_Resultados/Storage.JPG" />
+  <img src="/04_Resultados/Imagenes/Storage.JPG" />
 </p>
 
 ## Ambiente analítico
@@ -32,7 +32,7 @@ Con una captación de información conversacional ya estructurada y funcional, c
 analíticos y en particular, para *tableros de visualización en Power BI*.
 
 <p align="center">
-  <img src="/04_Resultados/Tablero.JPG" />
+  <img src="/04_Resultados/Imagenes/Tablero.JPG" />
 </p>
 
 En el tablero de visualización podemos identificar:
